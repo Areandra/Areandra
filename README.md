@@ -4,4 +4,4 @@
 
 ![snake dark](https://raw.githubusercontent.com/Areandra/Areandra/output/github-snake-dark.svg)
 
-Generated with Platane/snk
+Generated with ![Platane/snk](https://github.com/Platane/snk)
